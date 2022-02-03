@@ -1,5 +1,5 @@
-
-
+# this is the "game.py" file...
+print("Rock, Paper, Scissors, Shoot!")
 
 #
 # todo: write some Python code here to satisfy the exercise objectives
